@@ -9,7 +9,7 @@ const About = () => {
                     <div className="col-md-6">
                         <h1 className="text-primary fw-bold mb-4">About Us</h1>
                         <p className="lead mb-4 pb-2 textCourse">
-                            Course work on the topic "MyPet"
+                            Practik work on the topic "MyPet"
                             <br />
                             Work of a student Soltan Roman, KN-203
                         </p>
